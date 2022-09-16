@@ -1,16 +1,49 @@
-### Hi there 👋
+<h3>
+<p align="center">
+<a>
+ Hi, Im Oleksii 🇺🇦
+<a/>
+</p>
+<h3/>
 
-<!--
-**cheredniche/cheredniche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+<p align="center">
+<a>
+My social media ✔️
+<a/>
+</p>
+<h3/>
+<p align="center">
+  <a href= "https://t.me/cheredni0com">
+    <img src="https://img.icons8.com/fluency/30/000000/telegram-app.png"/>
+  </a>
+  <a href= "https://www.instagram.com/cherednichenko.al/">
+    <img src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/>
+  </a>
+  <a href= "https://github.com/cheredniche">
+    <img src="https://img.icons8.com/fluency/30/000000/github.png"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a>
+  📖 Languages I've practiced
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align="center">
+<a>
+  Python, HTML, CSS, C++ , Delphi.
+</a>
+</p>  
+<p align="center">
+<a>
+  📊 Stats 
+</a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheredniche&&theme=synthwave&show_icons=true&border_radius=25&include_all_commits=true">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheredniche&theme=synthwave&show_icons=true&border_radius=25&include_all_commits=true">
+</p>
