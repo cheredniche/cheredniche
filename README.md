@@ -33,7 +33,7 @@ My social media ✔️
 </p>
 <p align="center">
 <a>
-  Python, HTML, CSS, C++ , Delphi.
+  Python, HTML, CSS, C++ , Delphi, JS, QA.
 </a>
 </p>  
 <p align="center">
